@@ -1,0 +1,6 @@
+zh_CN:
+  js:
+    discourse_moderation_announcement:
+      confirm_delete_and_announce: "删除并公示"
+      confirm_delete_but_not_announce: "删除但不公示"
+

@@ -1,9 +1,5 @@
 en:
-  admin_js:
-    admin:
-      site_settings:
-        categories:
-          TODO_plugin_name: "Plugin Name"
   js:
-    discourse_plugin_name:
-      placeholder: placeholder
+    discourse_moderation_announcement:
+      confirm_delete_and_announce: "Delete and announce"
+      confirm_delete_but_not_announce: "Delete but not announce"
